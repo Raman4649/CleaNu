@@ -1,2 +1,2 @@
 # CleaNu
-Massage clear bot. in Discord
+Message clear bot. in Discord
